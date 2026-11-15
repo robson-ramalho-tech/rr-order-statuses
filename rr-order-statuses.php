@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name:       RR Order Statuses
- * Plugin URI:        https://github.com/robson-ramalho/rr-order-statuses
+ * Plugin URI:        https://wordpress.org/plugins/rr-order-statuses/
  * Description:       Create, rename and remove custom WooCommerce order statuses from one simple screen. Free, no add-ons.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 6.5
  * Requires PHP:      7.4
  * Requires Plugins:  woocommerce
@@ -21,7 +21,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'RROS_VERSION', '1.0.0' );
+define( 'RROS_VERSION', '1.0.1' );
 define( 'RROS_OPTION', 'rros_statuses' );
 
 add_action(
