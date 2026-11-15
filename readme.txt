@@ -2,9 +2,9 @@
 Contributors: robsonramalho
 Tags: woocommerce, order status, custom order status, orders
 Requires at least: 6.5
-Tested up to: 7.1
+Tested up to: 7.2
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -64,10 +64,17 @@ Deleting the plugin removes its settings. Orders keep the status stored in the d
 
 == Changelog ==
 
+= 1.0.1 =
+* Tested with WordPress 7.2.
+* Plugin URI now points to the plugin page on WordPress.org.
+
 = 1.0.0 =
 * First release.
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+Compatibility update for WordPress 7.2. No changes to your statuses.
 
 = 1.0.0 =
 First release.
